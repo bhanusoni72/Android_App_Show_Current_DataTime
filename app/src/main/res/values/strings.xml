@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TenthApp</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="FirstPage">Show Date Time</string>
+    <string name="Button">Click Me</string>
+</resources>
